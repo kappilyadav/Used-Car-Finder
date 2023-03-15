@@ -15,8 +15,23 @@ app.use(cors());
 app.use(morgan('dev'));
 
 
+
+const csvFilePath = 'assets/dataset.csv';
+const csv = require('csvtojson');
+
+
 app.get("/", function (req, res){
     res.send("working!!");
+
+
+
+    //reads data from csv file
+
+    csv()
+        .fromFile(csvFilePath)
+        .then((jsonObj) => {
+        console.log(jsonObj[0]);
+    });
 })
 
 const port = process.env.PORT || 5000;
