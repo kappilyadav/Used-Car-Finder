@@ -1,99 +1,99 @@
-Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Lat,Lng
-Maruti Alto K10 LXI CNG,Delhi,2014,40929,CNG,Manual,First,32.26 km/kg,998 CC,58.2 bhp,4,18.9667,72.8333
-Maruti Alto 800 2016-2019 LXI,Coimbatore,2013,54493,Petrol,Manual,Second,24.7 kmpl,796 CC,47.3 bhp,5,22.5411,88.3378
-Toyota Innova Crysta Touring Sport 2.4 MT,Mumbai,2017,34000,Diesel,Manual,First,13.68 kmpl,2393 CC,147.8 bhp,7,12.9699,77.598
-Toyota Etios Liva GD,Hyderabad,2012,139000,Diesel,Manual,First,23.59 kmpl,1364 CC,null bhp,5,13.0825,80.275
-Hyundai i20 Magna,Mumbai,2014,29000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,17.3667,78.4667
-Mahindra XUV500 W8 2WD,Coimbatore,2016,85609,Diesel,Manual,Second,16.0 kmpl,2179 CC,140 bhp,7,18.5196,73.8553
-Toyota Fortuner 4x2 AT TRD Sportivo,Pune,2015,59000,Diesel,Automatic,First,12.55 kmpl,2982 CC,168.7 bhp,7,23.03,72.58
-Hyundai EON Era Plus,Jaipur,2013,65000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,21.17,72.83
-Honda City 1.5 S MT,Mumbai,2011,66000,Petrol,Manual,Second,17.0 kmpl,1497 CC,118 bhp,5,26.847,80.947
-Mahindra XUV500 W6 2WD,Coimbatore,2015,54684,Diesel,Manual,First,15.1 kmpl,2179 CC,140 bhp,7,26.9167,75.8667
-Audi Q5 2008-2012 2.0 TDI,Mumbai,2012,78000,Diesel,Automatic,Second,12.8 kmpl,1968 CC,167.6 bhp,5,26.4725,80.3311
-Hyundai Grand i10 Magna,Jaipur,2016,21000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,25.15,82.58
-Toyota Corolla H5,Chennai,2007,90000,Petrol,Manual,Third,13.4 kmpl,1794 CC,125 bhp,5,21.1539,79.0831
-Maruti Swift Vdi BSIII,Coimbatore,2008,87628,Diesel,Manual,First,17.8 kmpl,1248 CC,75 bhp,5,28.6667,77.4167
-Nissan Terrano XL,Mumbai,2014,45000,Petrol,Manual,First,13.24 kmpl,1598 CC,102.5 bhp,5,22.7206,75.8472
-BMW X1 sDrive20d,Coimbatore,2013,30788,Diesel,Automatic,First,17.05 kmpl,1995 CC,184 bhp,5,22.3,73.2
-BMW 3 Series GT 320d Luxury Line,Hyderabad,2015,39524,Diesel,Automatic,First,19.59 kmpl,1995 CC,184 bhp,5,17.7333,83.3167
-Ford Ikon 1.4 TDCi DuraTorq,Chennai,2009,140000,Diesel,Manual,First,13.8 kmpl,1399 CC,68 bhp,5,23.25,77.4167
-Maruti Swift AMT ZXI,Kochi,2019,15409,Petrol,Automatic,First,22.0 kmpl,1197 CC,81.80 bhp,5,18.6278,73.8131
-Maruti Swift Dzire VXi,Jaipur,2015,36502,Petrol,Manual,First,17.5 kmpl,1298 CC,85.8 bhp,5,25.61,85.1414
-Maruti Ritz LDi,Pune,2016,200000,Diesel,Manual,First,23.2 kmpl,1248 CC,73.94 bhp,5,30.9083,75.8486
-Nissan Micra XV,Delhi,2010,70000,Petrol,Manual,First,18.06 kmpl,1198 CC,75 bhp,5,27.18,78.02
-Maruti Alto 800 2016-2019 LXI,Kochi,2017,36701,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5,19.2502,73.1602
-Skoda Laura 1.8 TSI Ambition,Bangalore,2009,72000,Petrol,Manual,Second,17.5 kmpl,,,,9.9197,78.1194
-Honda Civic 2010-2013 1.8 S MT Inspire,Bangalore,2011,40000,Petrol,Manual,Second,15.5 kmpl,1799 CC,132 bhp,5,22.8,86.1833
-Ford Ikon 1.3 Flair,Pune,2005,47000,Petrol,Manual,Second,13.8 kmpl,1299 CC,70 bhp,5,20,73.7833
-Maruti Alto LX,Pune,2006,93500,Petrol,Manual,Second,19.7 kmpl,796 CC,46.3 bhp,5,28.4333,77.3167
-Honda Jazz 1.5 V i DTEC,Pune,2015,52000,Diesel,Manual,First,27.3 kmpl,1498 CC,98.6 bhp,5,19.88,75.32
-Skoda Rapid 1.5 TDI AT Ambition,Delhi,2015,55429,Diesel,Automatic,Second,21.66 kmpl,1498 CC,103.52 bhp,5,22.2969,70.7984
-Hyundai i20 1.2 Sportz,Mumbai,2011,133000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,28.99,77.7
-Toyota Etios Cross 1.4L VD,Chennai,2014,70000,Diesel,Manual,Second,23.59 kmpl,1364 CC,67.06 bhp,5,23.1667,79.9333
-Volkswagen Polo GT TDI,Pune,2014,68000,Diesel,Manual,First,15.11 kmpl,1598 CC,103.6 bhp,5,19.18,72.9633
-Hyundai i10 Era 1.1 iTech SE,Pune,2010,71000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,23.7928,86.435
-Mitsubishi Pajero 2.8 SFX,Chennai,2012,121000,Diesel,Manual,First,10.5 kmpl,2835 CC,107.2 bhp,6,25.455,81.84
-Maruti Swift Dzire Tour LDI,Kolkata,2015,107000,Diesel,Manual,First,23.4 kmpl,1248 CC,74 bhp,5,25.3189,83.0128
-Maruti Swift Dzire VXI,Chennai,2015,51000,Petrol,Manual,First,19.1 kmpl,1197 CC,85.8 bhp,5,34.0911,74.8061
-Skoda Rapid 1.6 MPI AT Style,Mumbai,2017,13500,Petrol,Automatic,First,14.84 kmpl,1598 CC,103.52 bhp,5,31.6167,74.85
-Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Bangalore,2016,13000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,27.88,78.08
-Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Pune,2010,81000,Diesel,Manual,First,12.8 kmpl,2494 CC,102 bhp,8,19.3,73.0667
-BMW 5 Series 520d Luxury Line,Mumbai,2012,66889,Diesel,Automatic,First,22.48 kmpl,1995 CC,190 bhp,5,26.215,78.1931
-Maruti Baleno Alpha 1.3,Ahmedabad,2018,32000,Diesel,Manual,First,27.39 kmpl,1248 CC,74 bhp,5,21.2167,81.4333
-Audi A4 2.0 TDI 177 Bhp Technology Edition,Pune,2013,87001,Diesel,Automatic,First,17.11 kmpl,1968 CC,174.33 bhp,5,22.59,88.31
-Audi A4 2.0 TDI Multitronic,Hyderabad,2013,55000,Diesel,Automatic,Second,16.55 kmpl,1968 CC,140 bhp,5,23.3556,85.3347
-Skoda Rapid 1.6 MPI Ambition,Jaipur,2018,4000,Petrol,Manual,First,15.41 kmpl,1598 CC,103.52 bhp,5,16.5167,80.6167
-Maruti Ertiga SHVS VDI,Kochi,2017,27778,Diesel,Manual,First,24.52 kmpl,1248 CC,88.5 bhp,7,30.7353,76.7911
-Maruti Ciaz 1.4 Zeta,Mumbai,2017,5000,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,12.3086,76.6531
-Maruti Ciaz ZXi,Pune,2014,72000,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,21.2379,81.6337
-Mercedes-Benz A Class A200 CDI Sport,Chennai,2015,21000,Diesel,Automatic,First,20.0 kmpl,2143 CC,136 bhp,5,25.18,75.83
-Toyota Innova 2.5 ZX Diesel 7 Seater,Kochi,2015,59299,Diesel,Manual,First,12.99 kmpl,2494 CC,100.6 bhp,7,28.364,79.415
-BMW 3 Series 320d Prestige,Ahmedabad,2014,75000,Diesel,Automatic,First,18.88 kmpl,1995 CC,184 bhp,5,26.2918,73.0168
-Maruti Alto 800 2016-2019 LXI,Kochi,2019,3413,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5,11,76.9667
-Ford Ecosport 1.5 DV5 MT Titanium,Mumbai,2014,62000,Diesel,Manual,First,22.7 kmpl,1498 CC,89.84 bhp,5,26.15,91.77
-Ford Endeavour 3.0L 4X4 AT,Mumbai,2010,105001,Diesel,Automatic,First,11.4 kmpl,2953 CC,153.86 bhp,7,26.1667,91.7667
-Audi Q5 2.0 TDI,Mumbai,2013,89000,Diesel,Automatic,First,14.16 kmpl,1968 CC,174.3 bhp,5,17.6833,75.9167
-Hyundai Verna 1.6 SX VTVT,Mumbai,2014,21000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,10.8269,78.6928
-Mahindra XUV500 W8 4WD,Kolkata,2014,50000,Diesel,Manual,First,15.1 kmpl,2179 CC,140 bhp,7,15.36,75.125
-Maruti Vitara Brezza ZDi,Hyderabad,2016,70687,Diesel,Manual,First,24.3 kmpl,1248 CC,88.5 bhp,5,31.3256,75.5792
-Toyota Etios Liva 1.4 VXD,Pune,2016,104350,Diesel,Manual,First,23.59 kmpl,1364 CC,67.04 bhp,5,20.2644,85.8281
-Tata Indigo CS LX (TDI) BS III,Chennai,2011,150000,Diesel,Manual,Second,19.09 kmpl,1396 CC,69 bhp,5,19.3,72.85
-Honda City ZX GXi,Delhi,2008,81000,Petrol,Manual,First,17.7 kmpl,1497 CC,78 bhp,5,28.8418,78.7568
-Toyota Corolla Altis G,Kolkata,2008,89000,Petrol,Manual,Second,14.53 kmpl,1798 CC,138.1 bhp,5,16.7,74.2333
-Hyundai Grand i10 Asta,Kochi,2017,35223,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,8.5,76.8997
-Hyundai i20 Sportz 1.2,Kolkata,2015,48000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,29.964,77.546
-Volkswagen Polo 1.5 TDI Comfortline,Delhi,2015,60000,Diesel,Manual,First,20.14 kmpl,1498 CC,88.8 bhp,5,17.9756,79.6011
-Maruti Celerio X VXI Option,Mumbai,2018,7000,Petrol,Manual,First,23.0 kmpl,998 CC,67 bhp,5,11.65,78.1667
-Chevrolet Sail Hatchback 1.2,Kochi,2015,47572,Petrol,Manual,First,18.2 kmpl,1199 CC,82.5 bhp,5,20.55,74.55
-Mahindra Scorpio VLX Special Edition BS-IV,Delhi,2010,72727,Diesel,Manual,Second,15.4 kmpl,2179 CC,120 bhp,8,9.9667,76.2833
-Volkswagen Ameo 1.5 TDI Comfortline,Mumbai,2018,4708,Diesel,Manual,First,21.66 kmpl,1498 CC,108.62 bhp,5,26.7611,83.3667
-Maruti Wagon R LXI,Delhi,2009,55000,Petrol,Manual,Second,18.9 kmpl,998 CC,67.1 bhp,5,13.9304,75.56
-Honda Brio S Option MT,Coimbatore,2013,44198,Petrol,Manual,Second,18.4 kmpl,1198 CC,86.8 bhp,5,11.1075,77.3398
-Maruti Ertiga VXI,Ahmedabad,2015,35000,Petrol,Manual,First,16.02 kmpl,1373 CC,93.7 bhp,7,16.3,80.45
-Hyundai Santro Xing GL,Ahmedabad,2013,63831,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,22.2492,84.8828
-Ford Figo Aspire 1.2 Ti-VCT Titanium,Delhi,2017,17540,Petrol,Manual,First,18.16 kmpl,1196 CC,86.8 bhp,5,12.8703,74.8806
-Tata Tiago AMT 1.2 Revotron XTA,Mumbai,2017,14000,Petrol,Automatic,First,23.84 kmpl,1199 CC,84 bhp,5,19.15,77.3333
-Hyundai Santro Xing XL,Bangalore,2007,47000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,20.45,85.8667
-Chevrolet Beat LT,Chennai,2010,75422,Petrol,Manual,Second,18.6 kmpl,1199 CC,79.4 bhp,5,19.95,79.3
-Nissan Micra Diesel XV,Hyderabad,2011,67000,Diesel,Manual,Second,23.08 kmpl,1461 CC,63.1 bhp,5,30.318,78.029
-Toyota Innova 2.5 GX (Diesel) 8 Seater,Delhi,2013,79999,Diesel,Manual,First,12.99 kmpl,2494 CC,100 bhp,8,23.55,87.32
-Hyundai Xcent 1.2 VTVT E,Kolkata,2017,5044,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,23.6833,86.9667
-Maruti Ciaz VXi,Kolkata,2016,31601,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,21.765,72.1369
-BMW 5 Series 2013-2017 520d Luxury Line,Delhi,2014,70000,Diesel,Automatic,First,18.12 kmpl,1995 CC,190 bhp,5,20.9333,77.75
-Toyota Camry Hybrid 2.5,Ahmedabad,2016,16000,Petrol,Automatic,First,19.16 kmpl,2487 CC,175.67 bhp,5,14.4333,79.9667
-Toyota Corolla Altis D-4D G,Mumbai,2016,31700,Diesel,Manual,First,21.43 kmpl,1364 CC,87.2 bhp,5,26.468,74.639
-Hyundai Verna 1.6 SX CRDi (O),Kochi,2014,76969,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,8.7289,77.7081
-Volkswagen Vento 1.5 TDI Highline AT,Kolkata,2015,37000,Diesel,Automatic,First,21.21 kmpl,1498 CC,103.2 bhp,5,28.0181,73.3169
-Nissan Teana XL,Mumbai,2014,23000,Petrol,Automatic,First,11.07 kmpl,2496 CC,179.5 bhp,5,23.8333,91.2667
-Hyundai i20 1.2 Sportz Option,Coimbatore,2014,59098,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,23.1828,75.7772
-Tata Manza Club Class Safire90 LX,Kochi,2010,142299,Petrol,Manual,First,13.07 kmpl,1368 CC,88.76 bhp,5,25.4486,78.5696
-Ford Figo Diesel ZXI,Jaipur,2011,75731,Diesel,Manual,First,20.0 kmpl,1399 CC,68 bhp,5,19.2167,73.15
-Hyundai i20 Asta 1.2,Coimbatore,2017,69627,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,14.4667,75.9167
-Ford Fiesta Classic 1.6 SXI Duratec,Mumbai,2011,49000,Petrol,Manual,First,15.3 kmpl,1596 CC,99.6 bhp,5,32.7333,74.85
-Mercedes-Benz B Class B180 Sports,Mumbai,2015,25700,Petrol,Automatic,First,11.9 kmpl,1595 CC,120.7 bhp,5,15.8667,74.5
-Hyundai i20 Magna,Delhi,2012,80800,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,17.3333,76.8333
-Maruti Swift Dzire VDI,Hyderabad,2013,110896,Diesel,Manual,First,23.4 kmpl,1248 CC,74 bhp,5,22.47,70.07
-Hyundai Santro Xing GLS,Kolkata,2009,62261,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,20.9,74.7833
-Maruti Baleno Alpha,Kochi,2017,27610,Petrol,Manual,First,21.4 kmpl,1197 CC,83.1 bhp,5,24.75,85.0167
-Honda Accord 2.4 Elegance M/T,Kochi,2011,89219,Petrol,Manual,First,10.2 kmpl,2354 CC,180 bhp,5,21.0167,75.5667
-Nissan Micra XL CVT,Hyderabad,2018,6700,Petrol,Automatic,First,19.34 kmpl,1198 CC,75.94 bhp,5,15.8222,78.035
+id,Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Lat,Lng
+1,Maruti Alto K10 LXI CNG,Delhi,2014,40929,CNG,Manual,First,32.26 km/kg,998 CC,58.2 bhp,4,18.9667,72.8333
+2,Maruti Alto 800 2016-2019 LXI,Coimbatore,2013,54493,Petrol,Manual,Second,24.7 kmpl,796 CC,47.3 bhp,5,22.5411,88.3378
+3,Toyota Innova Crysta Touring Sport 2.4 MT,Mumbai,2017,34000,Diesel,Manual,First,13.68 kmpl,2393 CC,147.8 bhp,7,12.9699,77.598
+4,Toyota Etios Liva GD,Hyderabad,2012,139000,Diesel,Manual,First,23.59 kmpl,1364 CC,null bhp,5,13.0825,80.275
+5,Hyundai i20 Magna,Mumbai,2014,29000,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,17.3667,78.4667
+6,Mahindra XUV500 W8 2WD,Coimbatore,2016,85609,Diesel,Manual,Second,16.0 kmpl,2179 CC,140 bhp,7,18.5196,73.8553
+7,Toyota Fortuner 4x2 AT TRD Sportivo,Pune,2015,59000,Diesel,Automatic,First,12.55 kmpl,2982 CC,168.7 bhp,7,23.03,72.58
+8,Hyundai EON Era Plus,Jaipur,2013,65000,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5,21.17,72.83
+9,Honda City 1.5 S MT,Mumbai,2011,66000,Petrol,Manual,Second,17.0 kmpl,1497 CC,118 bhp,5,26.847,80.947
+10,Mahindra XUV500 W6 2WD,Coimbatore,2015,54684,Diesel,Manual,First,15.1 kmpl,2179 CC,140 bhp,7,26.9167,75.8667
+11,Audi Q5 2008-2012 2.0 TDI,Mumbai,2012,78000,Diesel,Automatic,Second,12.8 kmpl,1968 CC,167.6 bhp,5,26.4725,80.3311
+12,Hyundai Grand i10 Magna,Jaipur,2016,21000,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,25.15,82.58
+13,Toyota Corolla H5,Chennai,2007,90000,Petrol,Manual,Third,13.4 kmpl,1794 CC,125 bhp,5,21.1539,79.0831
+14,Maruti Swift Vdi BSIII,Coimbatore,2008,87628,Diesel,Manual,First,17.8 kmpl,1248 CC,75 bhp,5,28.6667,77.4167
+15,Nissan Terrano XL,Mumbai,2014,45000,Petrol,Manual,First,13.24 kmpl,1598 CC,102.5 bhp,5,22.7206,75.8472
+16,BMW X1 sDrive20d,Coimbatore,2013,30788,Diesel,Automatic,First,17.05 kmpl,1995 CC,184 bhp,5,22.3,73.2
+17,BMW 3 Series GT 320d Luxury Line,Hyderabad,2015,39524,Diesel,Automatic,First,19.59 kmpl,1995 CC,184 bhp,5,17.7333,83.3167
+18,Ford Ikon 1.4 TDCi DuraTorq,Chennai,2009,140000,Diesel,Manual,First,13.8 kmpl,1399 CC,68 bhp,5,23.25,77.4167
+19,Maruti Swift AMT ZXI,Kochi,2019,15409,Petrol,Automatic,First,22.0 kmpl,1197 CC,81.80 bhp,5,18.6278,73.8131
+20,Maruti Swift Dzire VXi,Jaipur,2015,36502,Petrol,Manual,First,17.5 kmpl,1298 CC,85.8 bhp,5,25.61,85.1414
+21,Maruti Ritz LDi,Pune,2016,200000,Diesel,Manual,First,23.2 kmpl,1248 CC,73.94 bhp,5,30.9083,75.8486
+22,Nissan Micra XV,Delhi,2010,70000,Petrol,Manual,First,18.06 kmpl,1198 CC,75 bhp,5,27.18,78.02
+23,Maruti Alto 800 2016-2019 LXI,Kochi,2017,36701,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5,19.2502,73.1602
+24,Skoda Laura 1.8 TSI Ambition,Bangalore,2009,72000,Petrol,Manual,Second,17.5 kmpl,,,,9.9197,78.1194
+25,Honda Civic 2010-2013 1.8 S MT Inspire,Bangalore,2011,40000,Petrol,Manual,Second,15.5 kmpl,1799 CC,132 bhp,5,22.8,86.1833
+26,Ford Ikon 1.3 Flair,Pune,2005,47000,Petrol,Manual,Second,13.8 kmpl,1299 CC,70 bhp,5,20,73.7833
+27,Maruti Alto LX,Pune,2006,93500,Petrol,Manual,Second,19.7 kmpl,796 CC,46.3 bhp,5,28.4333,77.3167
+28,Honda Jazz 1.5 V i DTEC,Pune,2015,52000,Diesel,Manual,First,27.3 kmpl,1498 CC,98.6 bhp,5,19.88,75.32
+29,Skoda Rapid 1.5 TDI AT Ambition,Delhi,2015,55429,Diesel,Automatic,Second,21.66 kmpl,1498 CC,103.52 bhp,5,22.2969,70.7984
+30,Hyundai i20 1.2 Sportz,Mumbai,2011,133000,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,28.99,77.7
+31,Toyota Etios Cross 1.4L VD,Chennai,2014,70000,Diesel,Manual,Second,23.59 kmpl,1364 CC,67.06 bhp,5,23.1667,79.9333
+32,Volkswagen Polo GT TDI,Pune,2014,68000,Diesel,Manual,First,15.11 kmpl,1598 CC,103.6 bhp,5,19.18,72.9633
+33,Hyundai i10 Era 1.1 iTech SE,Pune,2010,71000,Petrol,Manual,Second,19.81 kmpl,1086 CC,68.05 bhp,5,23.7928,86.435
+34,Mitsubishi Pajero 2.8 SFX,Chennai,2012,121000,Diesel,Manual,First,10.5 kmpl,2835 CC,107.2 bhp,6,25.455,81.84
+35,Maruti Swift Dzire Tour LDI,Kolkata,2015,107000,Diesel,Manual,First,23.4 kmpl,1248 CC,74 bhp,5,25.3189,83.0128
+36,Maruti Swift Dzire VXI,Chennai,2015,51000,Petrol,Manual,First,19.1 kmpl,1197 CC,85.8 bhp,5,34.0911,74.8061
+37,Skoda Rapid 1.6 MPI AT Style,Mumbai,2017,13500,Petrol,Automatic,First,14.84 kmpl,1598 CC,103.52 bhp,5,31.6167,74.85
+38,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Bangalore,2016,13000,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5,27.88,78.08
+39,Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,Pune,2010,81000,Diesel,Manual,First,12.8 kmpl,2494 CC,102 bhp,8,19.3,73.0667
+40,BMW 5 Series 520d Luxury Line,Mumbai,2012,66889,Diesel,Automatic,First,22.48 kmpl,1995 CC,190 bhp,5,26.215,78.1931
+41,Maruti Baleno Alpha 1.3,Ahmedabad,2018,32000,Diesel,Manual,First,27.39 kmpl,1248 CC,74 bhp,5,21.2167,81.4333
+42,Audi A4 2.0 TDI 177 Bhp Technology Edition,Pune,2013,87001,Diesel,Automatic,First,17.11 kmpl,1968 CC,174.33 bhp,5,22.59,88.31
+43,Audi A4 2.0 TDI Multitronic,Hyderabad,2013,55000,Diesel,Automatic,Second,16.55 kmpl,1968 CC,140 bhp,5,23.3556,85.3347
+44,Skoda Rapid 1.6 MPI Ambition,Jaipur,2018,4000,Petrol,Manual,First,15.41 kmpl,1598 CC,103.52 bhp,5,16.5167,80.6167
+45,Maruti Ertiga SHVS VDI,Kochi,2017,27778,Diesel,Manual,First,24.52 kmpl,1248 CC,88.5 bhp,7,30.7353,76.7911
+46,Maruti Ciaz 1.4 Zeta,Mumbai,2017,5000,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,12.3086,76.6531
+47,Maruti Ciaz ZXi,Pune,2014,72000,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,21.2379,81.6337
+48,Mercedes-Benz A Class A200 CDI Sport,Chennai,2015,21000,Diesel,Automatic,First,20.0 kmpl,2143 CC,136 bhp,5,25.18,75.83
+49,Toyota Innova 2.5 ZX Diesel 7 Seater,Kochi,2015,59299,Diesel,Manual,First,12.99 kmpl,2494 CC,100.6 bhp,7,28.364,79.415
+50,BMW 3 Series 320d Prestige,Ahmedabad,2014,75000,Diesel,Automatic,First,18.88 kmpl,1995 CC,184 bhp,5,26.2918,73.0168
+51,Maruti Alto 800 2016-2019 LXI,Kochi,2019,3413,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5,11,76.9667
+52,Ford Ecosport 1.5 DV5 MT Titanium,Mumbai,2014,62000,Diesel,Manual,First,22.7 kmpl,1498 CC,89.84 bhp,5,26.15,91.77
+53,Ford Endeavour 3.0L 4X4 AT,Mumbai,2010,105001,Diesel,Automatic,First,11.4 kmpl,2953 CC,153.86 bhp,7,26.1667,91.7667
+54,Audi Q5 2.0 TDI,Mumbai,2013,89000,Diesel,Automatic,First,14.16 kmpl,1968 CC,174.3 bhp,5,17.6833,75.9167
+55,Hyundai Verna 1.6 SX VTVT,Mumbai,2014,21000,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5,10.8269,78.6928
+56,Mahindra XUV500 W8 4WD,Kolkata,2014,50000,Diesel,Manual,First,15.1 kmpl,2179 CC,140 bhp,7,15.36,75.125
+57,Maruti Vitara Brezza ZDi,Hyderabad,2016,70687,Diesel,Manual,First,24.3 kmpl,1248 CC,88.5 bhp,5,31.3256,75.5792
+58,Toyota Etios Liva 1.4 VXD,Pune,2016,104350,Diesel,Manual,First,23.59 kmpl,1364 CC,67.04 bhp,5,20.2644,85.8281
+59,Tata Indigo CS LX (TDI) BS III,Chennai,2011,150000,Diesel,Manual,Second,19.09 kmpl,1396 CC,69 bhp,5,19.3,72.85
+60,Honda City ZX GXi,Delhi,2008,81000,Petrol,Manual,First,17.7 kmpl,1497 CC,78 bhp,5,28.8418,78.7568
+61,Toyota Corolla Altis G,Kolkata,2008,89000,Petrol,Manual,Second,14.53 kmpl,1798 CC,138.1 bhp,5,16.7,74.2333
+62,Hyundai Grand i10 Asta,Kochi,2017,35223,Petrol,Manual,First,18.9 kmpl,1197 CC,82 bhp,5,8.5,76.8997
+63,Hyundai i20 Sportz 1.2,Kolkata,2015,48000,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,29.964,77.546
+64,Volkswagen Polo 1.5 TDI Comfortline,Delhi,2015,60000,Diesel,Manual,First,20.14 kmpl,1498 CC,88.8 bhp,5,17.9756,79.6011
+65,Maruti Celerio X VXI Option,Mumbai,2018,7000,Petrol,Manual,First,23.0 kmpl,998 CC,67 bhp,5,11.65,78.1667
+66,Chevrolet Sail Hatchback 1.2,Kochi,2015,47572,Petrol,Manual,First,18.2 kmpl,1199 CC,82.5 bhp,5,20.55,74.55
+67,Mahindra Scorpio VLX Special Edition BS-IV,Delhi,2010,72727,Diesel,Manual,Second,15.4 kmpl,2179 CC,120 bhp,8,9.9667,76.2833
+68,Volkswagen Ameo 1.5 TDI Comfortline,Mumbai,2018,4708,Diesel,Manual,First,21.66 kmpl,1498 CC,108.62 bhp,5,26.7611,83.3667
+69,Maruti Wagon R LXI,Delhi,2009,55000,Petrol,Manual,Second,18.9 kmpl,998 CC,67.1 bhp,5,13.9304,75.56
+70,Honda Brio S Option MT,Coimbatore,2013,44198,Petrol,Manual,Second,18.4 kmpl,1198 CC,86.8 bhp,5,11.1075,77.3398
+71,Maruti Ertiga VXI,Ahmedabad,2015,35000,Petrol,Manual,First,16.02 kmpl,1373 CC,93.7 bhp,7,16.3,80.45
+72,Hyundai Santro Xing GL,Ahmedabad,2013,63831,Petrol,Manual,First,0.0 kmpl,1086 CC,62 bhp,5,22.2492,84.8828
+73,Ford Figo Aspire 1.2 Ti-VCT Titanium,Delhi,2017,17540,Petrol,Manual,First,18.16 kmpl,1196 CC,86.8 bhp,5,12.8703,74.8806
+74,Tata Tiago AMT 1.2 Revotron XTA,Mumbai,2017,14000,Petrol,Automatic,First,23.84 kmpl,1199 CC,84 bhp,5,19.15,77.3333
+75,Hyundai Santro Xing XL,Bangalore,2007,47000,Petrol,Manual,Second,0.0 kmpl,1086 CC,null bhp,5,20.45,85.8667
+76,Chevrolet Beat LT,Chennai,2010,75422,Petrol,Manual,Second,18.6 kmpl,1199 CC,79.4 bhp,5,19.95,79.3
+77,Nissan Micra Diesel XV,Hyderabad,2011,67000,Diesel,Manual,Second,23.08 kmpl,1461 CC,63.1 bhp,5,30.318,78.029
+78,Toyota Innova 2.5 GX (Diesel) 8 Seater,Delhi,2013,79999,Diesel,Manual,First,12.99 kmpl,2494 CC,100 bhp,8,23.55,87.32
+79,Hyundai Xcent 1.2 VTVT E,Kolkata,2017,5044,Petrol,Manual,First,20.14 kmpl,1197 CC,81.86 bhp,5,23.6833,86.9667
+80,Maruti Ciaz VXi,Kolkata,2016,31601,Petrol,Manual,First,20.73 kmpl,1373 CC,91.1 bhp,5,21.765,72.1369
+81,BMW 5 Series 2013-2017 520d Luxury Line,Delhi,2014,70000,Diesel,Automatic,First,18.12 kmpl,1995 CC,190 bhp,5,20.9333,77.75
+82,Toyota Camry Hybrid 2.5,Ahmedabad,2016,16000,Petrol,Automatic,First,19.16 kmpl,2487 CC,175.67 bhp,5,14.4333,79.9667
+83,Toyota Corolla Altis D-4D G,Mumbai,2016,31700,Diesel,Manual,First,21.43 kmpl,1364 CC,87.2 bhp,5,26.468,74.639
+84,Hyundai Verna 1.6 SX CRDi (O),Kochi,2014,76969,Diesel,Manual,First,22.32 kmpl,1582 CC,126.32 bhp,5,8.7289,77.7081
+85,Volkswagen Vento 1.5 TDI Highline AT,Kolkata,2015,37000,Diesel,Automatic,First,21.21 kmpl,1498 CC,103.2 bhp,5,28.0181,73.3169
+86,Nissan Teana XL,Mumbai,2014,23000,Petrol,Automatic,First,11.07 kmpl,2496 CC,179.5 bhp,5,23.8333,91.2667
+87,Hyundai i20 1.2 Sportz Option,Coimbatore,2014,59098,Petrol,Manual,Second,17.0 kmpl,1197 CC,80 bhp,5,23.1828,75.7772
+88,Tata Manza Club Class Safire90 LX,Kochi,2010,142299,Petrol,Manual,First,13.07 kmpl,1368 CC,88.76 bhp,5,25.4486,78.5696
+89,Ford Figo Diesel ZXI,Jaipur,2011,75731,Diesel,Manual,First,20.0 kmpl,1399 CC,68 bhp,5,19.2167,73.15
+90,Hyundai i20 Asta 1.2,Coimbatore,2017,69627,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5,14.4667,75.9167
+91,Ford Fiesta Classic 1.6 SXI Duratec,Mumbai,2011,49000,Petrol,Manual,First,15.3 kmpl,1596 CC,99.6 bhp,5,32.7333,74.85
+92,Mercedes-Benz B Class B180 Sports,Mumbai,2015,25700,Petrol,Automatic,First,11.9 kmpl,1595 CC,120.7 bhp,5,15.8667,74.5
+93,Hyundai i20 Magna,Delhi,2012,80800,Petrol,Manual,First,18.5 kmpl,1197 CC,82.85 bhp,5,17.3333,76.8333
+94,Maruti Swift Dzire VDI,Hyderabad,2013,110896,Diesel,Manual,First,23.4 kmpl,1248 CC,74 bhp,5,22.47,70.07
+95,Hyundai Santro Xing GLS,Kolkata,2009,62261,Petrol,Manual,First,17.92 kmpl,1086 CC,62.1 bhp,5,20.9,74.7833
+96,Maruti Baleno Alpha,Kochi,2017,27610,Petrol,Manual,First,21.4 kmpl,1197 CC,83.1 bhp,5,24.75,85.0167
+97,Honda Accord 2.4 Elegance M/T,Kochi,2011,89219,Petrol,Manual,First,10.2 kmpl,2354 CC,180 bhp,5,21.0167,75.5667
+98,Nissan Micra XL CVT,Hyderabad,2018,6700,Petrol,Automatic,First,19.34 kmpl,1198 CC,75.94 bhp,5,15.8222,78.035
