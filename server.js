@@ -2,28 +2,27 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv').config();
 const csv = require('csvtojson');
+const cors = require('cors');
 
 
 const app = express();
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(cors());
 
 
-function getData() {
-  let data;
-
-  const csvFilePath = 'assets/dataset.csv';
-  csv().fromFile(csvFilePath).then((jsonObj) => {
-    data = jsonObj;
-  });
-
-  return data;
-}
+// function getData() {
+//   const jsonArray = csv().fromFile('assets/dataset.csv');
+//   return jsonArray
+// }
 
 
-app.get('/api/data', (req, res) => {
-  const data = { key: process.env.MAPSAPIKEY };
+app.get('/api/data', async (req, res) => {
+  const jsonArray = await csv().fromFile('assets/dataset.csv');
+
+  const data = { key: process.env.MAPSAPIKEY , array: jsonArray};
+
   res.json(data);
 
 });

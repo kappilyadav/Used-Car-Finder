@@ -4,19 +4,6 @@ import withScriptjs from 'react-google-maps/lib/withScriptjs';
 
 
 
-const MapWithAMarker = withScriptjs(withGoogleMap( (props) => (
-  <GoogleMap
-    defaultZoom={8}
-    defaultCenter={{ lat: 37.7749, lng: -122.4194 }}
-  >
-
-  {/* use for each loop to get and display array from node file */}
-    <Marker position={{ lat: 37.7749, lng: -122.4194 }} />
-    <Marker position={{ lat: 37.4749, lng: -122.4194 }} />
-  </GoogleMap>
-)));
-
-
 
 
 function MyMapComponent() {
@@ -31,13 +18,35 @@ function MyMapComponent() {
     fetchData();
   }, []);
 
+  
+  
+  const MapWithAMarker = withScriptjs(withGoogleMap( (props) => (
+    <GoogleMap
+      defaultZoom={6}
+      defaultCenter={{ lat: 25.3953, lng: 79.1379 }}
+    >
+  
+  <Marker position={{ lat: 25.3953, lng: 25.3953 }} />
+
+    {/* display marker on map */}
+      {
+        data.array.map((entry, index) => (
+          <Marker key={index} position={{ lat: parseFloat(entry.Lat), lng: parseFloat(entry.Lng) }} />
+        ))
+      }
+      
+    </GoogleMap>
+  )));
+
+
+
 
   return (
     data && <MapWithAMarker
 
       googleMapURL={"https://maps.googleapis.com/maps/api/js?key=" + data.key}
       loadingElement={<div style={{ height: '100%' }} />}
-      containerElement={<div style={{ height: '400px' }} />}
+      containerElement={<div style={{ height: '600px' }} />}
       mapElement={<div style={{ height: '100%' }} />}
     />
   );
