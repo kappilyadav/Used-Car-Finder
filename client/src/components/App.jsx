@@ -44,6 +44,7 @@ function App() {
     <div className="App">
       <input type='text' placeholder='Enter car name' input={inputValue} onChange={handleChange}></input>
       <button onClick={handleClick} className='btn btn-primary btn-md' type='submit'>Find Cars</button>
+      <p> *Map may load in sometime. </p>
       <p> *Click on markers to see more details. </p>
       {data && <Map apiKey={data.key} markers={searchData} plotMarkers={plot} />}
     </div>
