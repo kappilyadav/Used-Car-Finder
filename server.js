@@ -12,12 +12,6 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 
 
-// function getData() {
-//   const jsonArray = csv().fromFile('assets/dataset.csv');
-//   return jsonArray
-// }
-
-
 app.get('/api/data', async (req, res) => {
   const jsonArray = await csv().fromFile('assets/dataset.csv');
 
